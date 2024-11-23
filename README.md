@@ -1,4 +1,12 @@
-# 📘 Analyz
+# 🤖 Analyz
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e4f56527-56b7-464a-b71d-9a8c003738e2" alt="Analyz">
+  <p><i>Analyz Extension Overview</i></p>
+</div>
+<br>
 
 **Analyz** is a powerful, LLM-powered Visual Studio Code extension designed to provide developers with instant insights, assistance, and educational resources for a wide range of programming tasks. Whether it's troubleshooting code, converting across languages, or gaining insights from research papers, **Analyz** supports developers at every step. Anlyze has access to both open-source and pro language models—such as **LLaMA**, **Gemma**, **Mistral**, and **OpenAI**—**Analyz** is your go-to tool for smart, secure, and intuitive programming support. With user-friendly features, including secure Google OAuth2.0 authentication, **Analyz** ensures that every session is personalized, safe, and effective.
 
@@ -122,6 +130,8 @@ Open the project in Visual Studio Code and run the extension using the following
 ```bash
 F5
 ```
+
+# Demo
 
 ## 🎥 User Conversation with Analyz
 
