@@ -135,7 +135,7 @@ F5
 
 ## 🎥 User Conversation with Analyz
 
-https://github.com/user-attachments/assets/862cb642-e366-4294-89f0-42b766cdbce6
+https://github.com/user-attachments/assets/6e4b8d4d-e438-48ad-90fc-c2c986cc4597
 
 - 🔒 **Secure Google OAuth Login**: Experience seamless and secure authentication to protect your data.
 - 🎛️ **Choose the Model of Your Own**: Select from various supported models to tailor your experience.
@@ -144,7 +144,7 @@ https://github.com/user-attachments/assets/862cb642-e366-4294-89f0-42b766cdbce6
 
 ## 📹 Chat History and Memory Retrieval
 
-https://github.com/user-attachments/assets/a2e40d9c-3faf-4078-a7f1-08983c08ec32
+https://github.com/user-attachments/assets/f038a3e0-da11-40ac-8818-ceaf6ea36e0e
 
 ### Key Points:
 - 🗄️ **Session History Retrieval**: **Analyz** is capable of retrieving the history of all unique sessions, allowing users to revisit past interactions.
@@ -154,7 +154,7 @@ https://github.com/user-attachments/assets/a2e40d9c-3faf-4078-a7f1-08983c08ec32
 
 ## 🛠️ External Tools Use
 
-https://github.com/user-attachments/assets/d601d15e-ea85-4901-9698-fabb7b479997
+https://github.com/user-attachments/assets/203f6146-d9d0-401e-bc86-bda1e118dfe0
 
 ### Key Points:
 - 🎥 **YouTube URL Analysis**: **Analyz** can analyze given YouTube URLs, providing insights and answers related to video content.
@@ -163,7 +163,7 @@ https://github.com/user-attachments/assets/d601d15e-ea85-4901-9698-fabb7b479997
 
 ## 📹 Additional Tools
 
-https://github.com/user-attachments/assets/6f95093c-35b5-493f-8d73-7f86b2381f56
+https://github.com/user-attachments/assets/5c3bede0-40e8-4321-9ada-eda7e542adbe
 
 ### Key Points:
 - 🔄 **Code Conversion**: **Analyz** can convert code across various programming languages, aiding in understanding and application across different platforms.
